@@ -1,0 +1,6 @@
+{
+  "device_ip": "192.168.0.131",
+  "bitrate": "8M",
+  "max_size": 1080,
+  "check_interval": 5
+}

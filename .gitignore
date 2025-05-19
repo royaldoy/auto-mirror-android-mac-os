@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.env/
+*.pyc
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Python dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Scrcpy binaries (jika ingin mengabaikan build/artifact biner)
+# scrcpy
+# scrcpy-server
+# scrcpy.1
+# adb
+
+# Config file (jika menyimpan info sensitif)
+# config.json
+
